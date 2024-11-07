@@ -1,1 +1,5 @@
+# Ignore .env files
+.env
+
+# Ignore target directory (compiled binaries)
 /target
